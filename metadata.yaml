@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '6439'
     url: http://www.gutenberg.org/2009/agents/6439
 description: Translation of Myths & legends of Japan
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16043#Mythen--amp--Legenden-van-Japan
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2005-06-12'
 gutenberg_type: Text
