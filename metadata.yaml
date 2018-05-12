@@ -1,0 +1,44 @@
+_repo: Mythen--amp--Legenden-van-Japan_16043
+_version: 0.1.0
+alternative_title: Myths & legends of Japan. Dutch
+contributor:
+  illustrator:
+    agent_name: Paul, Evelyn
+    birthdate: 1883
+    deathdate: 1963
+    gutenberg_agent_id: '6441'
+    url: http://www.gutenberg.org/2009/agents/6441
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Paul
+  translator:
+    agent_name: Goudsmit, Boudewijn Casper
+    alias: Goudsmit, B. C.
+    birthdate: 1849
+    deathdate: 1915
+    gutenberg_agent_id: '8764'
+    url: http://www.gutenberg.org/2009/agents/8764
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, F. Hadland (Frederick Hadland)
+    alias: Davis, Frederick Hadland
+    gutenberg_agent_id: '6439'
+    url: http://www.gutenberg.org/2009/agents/6439
+description: Translation of Myths & legends of Japan
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2005-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16043'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Legends -- Japan'
+- !lcsh 'Mythology, Japanese'
+- !lcsh 'Folklore -- Japan'
+title: Mythen & Legenden van Japan
+url: http://www.gutenberg.org/ebooks/16043
